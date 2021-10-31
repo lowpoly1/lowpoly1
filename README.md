@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @name-is-available
 - i enjoy c++ and web development, i'm hoping to expand to other things
 - i’m currently learning c++ 
-- i don't socialize well
+- i don't socialize well, so be warned if you want to collaborate
 
 <!---
 name-is-available/name-is-available is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
