@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @name-is-available
+- 👋 Hi, I’m @lowpoly1
 - i enjoy c++ and web development, i'm hoping to expand to other things
 - i’m currently learning c++ 
 
