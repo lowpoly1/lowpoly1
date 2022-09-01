@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lowpoly1
-- I enjoy c++ and web development, I'm hoping to expand to other things
+- I enjoy c++, python, shell scripting, ricing my Linux machines, and web development.
 - I’m currently learning python and general computer sciencey stuff
 - I use EndeavourOS Linux with i3-gaps
 
