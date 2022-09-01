@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lowpoly1
 - I enjoy c++ and web development, I'm hoping to expand to other things
-- I’m currently learning php
+- I’m currently learning python and general computer sciencey stuff
 - I use EndeavourOS Linux with i3-gaps
 
 <!---
